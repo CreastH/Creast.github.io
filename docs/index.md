@@ -3,7 +3,7 @@
 
 ## 学习小项目
 
-- [DoggeLike](./DoggeLike/)
+- [DoggeLike](./DoggeLike/flight_1.md)
 
 ```markdown
             ...................................................
