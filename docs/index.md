@@ -5,8 +5,10 @@
 
 - [DoggeLike](./DoggeLike/flight_1.md)
 
-- [Spring 学习踩坑](./Spring_pot)
+## 七拼八凑的知识点
 
+- [Spring 学习踩坑](./Spring_pot/index.md)
+- [IDEA 新型地雷](./idea/index.md)
 ```markdown
             ...................................................
             ...................................................
