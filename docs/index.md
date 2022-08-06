@@ -4,6 +4,7 @@
 ## 学习小项目
 
 - [DoggeLike](./DoggeLike/flight_1.md)
+- [Outrighter](./Outerighter/index.md)
 
 ## 七拼八凑的知识点
 
