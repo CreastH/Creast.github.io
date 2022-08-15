@@ -4,4 +4,5 @@
 
 - **目录**
 
- - [SpringCloud依赖](./pot1.md)
+- [SpringCloud依赖](./pot1.md)
+- [SpringBoot注入](./pot2.md)
